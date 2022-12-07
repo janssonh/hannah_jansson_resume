@@ -3,11 +3,11 @@ layout: resume
 title: Hannah Jansson's Resume
 ---
 # Hannah Jansson
-hannah.jansson13@gmail.com (385) 567-6010
+(385) 567-6010
 https://www.linkedin.com/in/hannahjansson/
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="hannah.jansson13@gmail.com">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 </div>
 
