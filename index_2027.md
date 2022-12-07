@@ -4,11 +4,10 @@ title: Hannah Jansson's Resume
 ---
 # Hannah Jansson
 (385) 567-6010
-https://www.linkedin.com/in/hannahjansson/
 
 <div id="webaddress">
-<a href="hannah.jansson13@gmail.com">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
+<a href="hannah.jansson13@gmail.com">hannah.jansson13@gmail.com</a>
+| <a href="https://www.linkedin.com/in/hannahjansson/">LinkedIn Page</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -24,6 +23,8 @@ __Brigham Young University - Hawaii__, Laie, HI
 `2020-2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- Major: Business Analytics
+- Minor: Business Finance
 - 4.0 GPA
 
 
