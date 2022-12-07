@@ -26,31 +26,31 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - 4.0 GPA
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+### Auditing Specialist Intern
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`April 2022 - July 2022`
+__UMB Fund Services__, Ogden, UT
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Audited and validated financial reports and data for 29 private equity funds
+- Automated Excel workbooks containing financial reports
+- Provided over 200 clients with the updated and audited financial reports 
 
-### Data Science Lead
+### Office Assistant
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`August 2019 - December 2019`
+__Facilities Management BYU Hawaii__, Laie, HI
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Created university’s preventative maintenance system together with a student team
+- Collected data on over 800 pieces of equipment and created Excel workbooks to record and examine data 
+- Presented results to the BYU Hawaii Facilities Management Coordinator and Operations Manager
 
 `September 2027 - April 2028`
 __Good2Go__, Consultant
 
 - Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
+- Established standardized 
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
 
 ### Data Science Consulting Team
